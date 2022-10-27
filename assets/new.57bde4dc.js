@@ -1,0 +1,1 @@
+import{_ as e}from"./FormMontre.vue_vue_type_script_setup_true_lang.498143a9.js";import{d as o,o as t,c as a,b as n}from"./index.2837c9fa.js";import"./MontreConnectee.vue_vue_type_script_setup_true_lang.50cdb162.js";const i=o({__name:"new",setup(r){return(c,s)=>(t(),a("div",null,[n(e)]))}});export{i as default};
